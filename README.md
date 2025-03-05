@@ -41,7 +41,3 @@ Future research could explore alternative feature representations and fine-tune 
 
 - Herman Olvik: olvik@chalmers.se
 - Cornelia Swartling: corswa@chalmers.se
-
-### Acknowledgments
-
-This project was conducted as part of the DAT341 Applied Machine Learning course at Chalmers University of Technology. Special thanks to the course instructors and peers for their valuable feedback and support.
